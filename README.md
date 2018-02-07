@@ -1,2 +1,2 @@
-# onaky-todo
+# Onaky To Do
 To Do App made with React Native
